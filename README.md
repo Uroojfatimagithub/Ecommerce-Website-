@@ -10,7 +10,10 @@ Technologies Used
 HTML: For structuring the content of the website.
 CSS: For styling and layout.
 JavaScript: For interactive elements and functionalities.
-![image](https://github.com/user-attachments/assets/75557c05-e69b-44b6-aa7c-8838070152f2)
+![Screenshot (147)](https://github.com/user-attachments/assets/0ccd8224-034d-4486-a623-7bf122174aea)
+![Screenshot (143)](https://github.com/user-attachments/assets/fb193735-5246-4081-af5a-9f0f7d9fca17)
+![Screenshot (144)](https://github.com/user-attachments/assets/a2cfd536-b345-44c0-904e-d1e687de6133)
+
 
 Usage
 Browse Products: Visit the shop page to view and select products.
